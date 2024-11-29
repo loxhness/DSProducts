@@ -4,6 +4,7 @@ import { motion } from "framer-motion";
 import { PageTransition } from "@/components/animations/PageTransitions";
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
 import { Button } from "@/components/ui/button";
+import Image from 'next/image';
 import { Input } from "@/components/ui/input";
 import { Mail, Phone, MapPin } from "lucide-react";
 
